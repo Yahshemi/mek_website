@@ -1,0 +1,11 @@
+{
+  "name": "mek_website",
+  "version": "1.0.0",
+  "description": "A website for MEK Enterprises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yahshemi <yahshemi@gmail.com> (yahshemi.github.io/CSS-My-Site/)",
+  "license": "MIT"
+}
