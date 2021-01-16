@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #01b1d7;
+  color: #00947e;
 }
 
 a:hover {
-  color: #0dd3fe;
+  color: #00947e;
   text-decoration: none;
 }
 
@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a span, #header .logo h1 a:hover span {
-  color: #01b1d7;
+  color: #00947e;
 }
 
 #header .logo img {
